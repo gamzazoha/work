@@ -14,19 +14,23 @@ body {
 
 #text-1 {
     margin: 0;
-    height: 30px;
+    margin-bottom: 24px;
     font-weight: 400;
     font-size: 26px;
     color: #000000;
     line-height: 30px;
     letter-spacing: -0.025em;
-    padding-bottom: 24px;
-    border-bottom: #E6E8EB 1px solid;
+}
+
+#Frame-9 > hr {
+    margin: 0;
+    border: 0;
+    border-bottom: 1px #E6E8EB solid;
 }
 
 #text-2 {
     margin: 0;
-    padding-top: 48px; padding-bottom: 20px;
+    margin-top: 39px; margin-bottom: 20px;
     height: 36px; 
     font-weight: 400;
     font-size: 14px;
@@ -40,7 +44,7 @@ body {
     box-sizing: border-box;
     display: inline-block;
     margin: 0;
-    padding: 12px 10px 12px 17px;
+    padding: 14px 10px 14px 17px;
     
     border-radius: 6px;
     background-color: #E6E8EB;
@@ -48,6 +52,6 @@ body {
     font-size: 26px;
 
     color: #001832;
-    line-height: 30px;
+    line-height: 26px;
     letter-spacing: 7px;
 }
