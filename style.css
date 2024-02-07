@@ -31,7 +31,6 @@ body {
 #text-2 {
     margin: 0;
     margin-top: 39px; margin-bottom: 20px;
-    height: 36px; 
     font-weight: 400;
     font-size: 14px;
 
@@ -44,11 +43,11 @@ body {
     box-sizing: border-box;
     display: inline-block;
     margin: 0;
-    padding: 14px 10px 14px 17px;
+    padding: 14px 11px 14px 18px;
     
     border-radius: 6px;
     background-color: #E6E8EB;
-    font-weight: 500;
+    font-weight: 400;
     font-size: 26px;
 
     color: #001832;
